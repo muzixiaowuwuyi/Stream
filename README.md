@@ -5,6 +5,8 @@ stream is built on Nextjs 14, Prisma and mySQL, styled using Tailwind, unit test
 
 ![Stream intro](https://github.com/muzixiaowuwuyi/Stream/blob/main/assets/stream.gif)
 
+## Tech Stack
+
 ![Stream tech stack](https://github.com/muzixiaowuwuyi/Stream/blob/main/assets/Tech-Stack.jpg)
 
 ## Installation
