@@ -79,7 +79,7 @@ befor perform end to end test, please make the dev instance is running.
 $ npm run e2e
 ```
 
-### 5. Contributors
+## Contributors
 
 [Guangzheng Li](https://github.com/muzixiaowuwuyi)
 [Michele Maffei](https://github.com/itzMaffi)
